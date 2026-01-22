@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 At FEROBO, DIY toys are not treated as a category trend or a nostalgic return to traditional toys.
 They represent a deliberate design decision rooted in how we believe people—especially younger generations—should engage with technology in the AI era.
