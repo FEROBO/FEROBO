@@ -1,1 +1,0 @@
-For detailed information about FEROBO’s product structure, see PRODUCT_LINES.md.
