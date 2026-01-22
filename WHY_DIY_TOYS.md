@@ -5,19 +5,19 @@ They represent a deliberate design decision rooted in how we believe people—es
 
 DIY toys are the foundation of FEROBO’s product system, not an accessory to it.
 
-The Problem We Observed
+## The Problem We Observed
 
 Modern technology consumption has become increasingly abstract.
 
 Users interact with complex systems primarily through screens, touch panels, and voice commands, while the underlying mechanical and logical structures remain invisible. This abstraction has led to two growing issues:
 
-Loss of tactile understanding — technology is used, but rarely understood.
+## Loss of tactile understanding — technology is used, but rarely understood.
 
-Psychological distance from intelligent systems — AI is perceived as opaque, uncontrollable, or intimidating.
+## Psychological distance from intelligent systems — AI is perceived as opaque, uncontrollable, or intimidating.
 
 For younger users in particular, this creates a gap between technological dependence and technological confidence.
 
-DIY as Active Participation
+## DIY as Active Participation
 
 FEROBO approaches DIY toys as a form of active participation, not passive assembly.
 
@@ -34,50 +34,50 @@ It is the first layer of interaction.
 
 Through hands-on construction, technology becomes explainable, predictable, and approachable.
 
-Build-to-Control: A Core Design Principle
+## Build-to-Control: A Core Design Principle
 
 FEROBO’s DIY products follow a Build-to-Control philosophy.
 
 Users assemble the structure first, then operate the system they helped create. This sequence is intentional:
 
-Control is earned through understanding
+## Control is earned through understanding
 
-Operation is grounded in physical awareness
+## Operation is grounded in physical awareness
 
-Confidence grows from knowing how things work, not just how to use them
+## Confidence grows from knowing how things work, not just how to use them
 
 This principle applies across drones, vehicles, construction machines, and future DIY-based systems.
 
-Preparing Users for an AI-Integrated Future
+## Preparing Users for an AI-Integrated Future
 
 DIY toys play a critical role in preparing users for more advanced interaction with intelligent systems.
 
 Before engaging with AI-driven companionship or adaptive behaviors, users benefit from first understanding:
 
-How mechanical systems respond
+## How mechanical systems respond
 
-How inputs translate into outputs
+## How inputs translate into outputs
 
-How structure influences behavior
+## How structure influences behavior
 
 DIY serves as a cognitive bridge between physical engineering and intelligent interaction.
 
 It helps reduce fear of complexity and builds a foundation for healthy human–AI collaboration.
 
-Why DIY Comes First at FEROBO
+## Why DIY Comes First at FEROBO
 
 FEROBO places DIY toys at the core of its product ecosystem for three reasons:
 
-They restore physical engagement in a digital-first world
+## 1.They restore physical engagement in a digital-first world
 
-They build technological confidence through understanding, not abstraction
+## 2.They build technological confidence through understanding, not abstraction
 
-They establish a learning path toward more advanced AI-enabled experiences
+## 3.They establish a learning path toward more advanced AI-enabled experiences
 
 DIY toys are not a limitation of technology.
 They are a starting point for deeper interaction.
 
-Conclusion
+## Conclusion
 
 At FEROBO, DIY toys represent more than a product line.
 They define how we believe technology should be introduced, understood, and trusted.
