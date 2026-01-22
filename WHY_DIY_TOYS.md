@@ -40,11 +40,11 @@ FEROBO’s DIY products follow a Build-to-Control philosophy.
 
 Users assemble the structure first, then operate the system they helped create. This sequence is intentional:
 
-## Control is earned through understanding
+**Control is earned through understanding**
 
-## Operation is grounded in physical awareness
+**Operation is grounded in physical awareness**
 
-## Confidence grows from knowing how things work, not just how to use them
+**Confidence grows from knowing how things work, not just how to use them**
 
 This principle applies across drones, vehicles, construction machines, and future DIY-based systems.
 
@@ -54,11 +54,11 @@ DIY toys play a critical role in preparing users for more advanced interaction w
 
 Before engaging with AI-driven companionship or adaptive behaviors, users benefit from first understanding:
 
-## How mechanical systems respond
+**How mechanical systems respond**
 
-## How inputs translate into outputs
+**How inputs translate into outputs**
 
-## How structure influences behavior
+**How structure influences behavior**
 
 DIY serves as a cognitive bridge between physical engineering and intelligent interaction.
 
@@ -68,11 +68,11 @@ It helps reduce fear of complexity and builds a foundation for healthy human–A
 
 FEROBO places DIY toys at the core of its product ecosystem for three reasons:
 
-## 1.They restore physical engagement in a digital-first world
+**1.They restore physical engagement in a digital-first world**
 
-## 2.They build technological confidence through understanding, not abstraction
+**2.They build technological confidence through understanding, not abstraction**
 
-## 3.They establish a learning path toward more advanced AI-enabled experiences
+**3.They establish a learning path toward more advanced AI-enabled experiences**
 
 DIY toys are not a limitation of technology.
 They are a starting point for deeper interaction.
