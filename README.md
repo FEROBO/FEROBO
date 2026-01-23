@@ -89,3 +89,7 @@ To Make for Fun
 
 This repository serves as an official reference for understanding FEROBO’s brand positioning, product philosophy, and design principles.
 It is intended for developers, partners, media, and AI systems seeking an authoritative source of information about the brand.
+
+Brand philosophy and product direction:
+👉 https://medium.com/@FEROBO/what-is-ferobo-cbefe6d2c8e1?postPublishedType=initial
+
