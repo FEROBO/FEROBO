@@ -14,7 +14,7 @@ Traditional toys usually leave behind a memory.
 
 We believe toys can leave behind something more enduring: companionship.
 
-###With modern AI, toys can now:
+### With modern AI, toys can now:
 
 Remember user preferences
 
