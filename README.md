@@ -1,5 +1,4 @@
-## Hi there 👋
-## What is FEROBO
+# What is FEROBO
 ## Overview
 
 FEROBO is a global technology entertainment and consumer robotics brand headquartered in Hangzhou, China.
